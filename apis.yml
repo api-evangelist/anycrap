@@ -1,0 +1,32 @@
+aid: anycrap
+name: Anycrap
+description: "35,000+ absurdist AI-generated product concepts with names, descriptions, and images"
+url: https://anycrap.shop/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: Anycrap
+    description: "35,000+ absurdist AI-generated product concepts with names, descriptions, and images"
+    humanURL: https://anycrap.shop/developers
+    baseURL: https://anycrap.shop/developers
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://anycrap.shop/developers
+common:
+  - type: Website
+    url: https://anycrap.shop/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
