@@ -1,4 +1,16 @@
 aid: anycrap
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/anycrap.png
 name: Anycrap
 description: "35,000+ absurdist AI-generated product concepts with names, descriptions, and images"
 url: https://anycrap.shop/developers
