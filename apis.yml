@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/anycrap.pn
 name: Anycrap
 description: "35,000+ absurdist AI-generated product concepts with names, descriptions, and images"
 url: https://anycrap.shop/developers
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
