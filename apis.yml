@@ -39,7 +39,6 @@ apis:
   - name: Anycrap
     description: "35,000+ absurdist AI-generated product concepts with names, descriptions, and images"
     humanURL: https://anycrap.shop/developers
-    baseURL: https://anycrap.shop/developers
     tags:
       - Entertainment
     properties:
